@@ -10,16 +10,20 @@ Each day, you'll find a new topic to learn along with exercises and challenges t
 
 The repository is structured into weekly modules, with each week focusing on different aspects of GoLang. Here's how the weeks are organized:
 
-[Insert Weekly Structure Here]
+[Weekly Structure Here]()
 
 ## Getting Started
 
 To get started, clone this repository and begin with Day 1. Feel free to explore each day's materials at your own pace. Join the journey to become a proficient GoLang developer!
 
-## Contributions
+## Contribute
 
 Contributions are welcome! If you find any issues or want to add improvements, feel free to open a pull request.
 
-## License
+## 🛡️ License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Support
+
+This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
