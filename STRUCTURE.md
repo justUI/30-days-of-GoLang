@@ -66,11 +66,11 @@
     - Create a microservice architecture with Go and Docker.
     - Implement a WebSocket server for real-time communication
 
-  - Day 31: Deploying Go Applications
-  - Day 32: Continuous Integration and Deployment (CI/CD) with Go
-  - Day 33: Performance optimization techniques
-  - Day 34: Code review and collaboration practices
-  - Day 35: Conclusion and Next Steps
+    - Day 31: Deploying Go Applications
+    - Day 32: Continuous Integration and Deployment (CI/CD) with Go
+    - Day 33: Performance optimization techniques
+    - Day 34: Code review and collaboration practices
+    - Day 35: Conclusion and Next Steps
 
 ## How to Use
 - Clone this repository.
