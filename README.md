@@ -1,6 +1,6 @@
 # 30 Days of GoLang
 
-![golang (Small)](https://github.com/justUI/30-days-of-GoLang/assets/90769647/e825291d-da85-43e7-80f8-64b5bd875b53)
+![golang (Small) (Custom)](https://github.com/justUI/30-days-of-GoLang/assets/90769647/4ac0a85a-5375-4aa7-b2e7-21c74b50575d)
 
 Welcome to 30 Days of GoLang! This repository is a comprehensive guide designed to help you master Go programming language within 30 days. Whether you're a beginner or an experienced developer looking to brush up your skills, this challenge is for you.
 
